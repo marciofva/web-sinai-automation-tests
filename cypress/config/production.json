@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://www3.epa.gov/carbon-footprint-calculator",
+  "env": {
+    "environment": "production"
+  }
+}

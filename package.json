@@ -1,0 +1,23 @@
+{
+  "name": "web-sinai-calculator-tests",
+  "version": "1.0.0",
+  "description": "Carbon Footprint Calculator",
+  "main": "index.js",
+  "scripts": {
+    "cy:verify": "$(npm bin)/cypress verify",
+    "cy:open": "$(npm bin)/cypress open",
+    "cy:runChromeProd": "$(npm bin)/cypress run --env configFile=production --browser chrome --config video=false",
+    "cy:runChromeDev": "$(npm bin)/cypress run --env configFile=development --browser chrome --config video=false",
+    "cy:runChromeProdHeadless": "$(npm bin)/cypress run --env configFile=production --browser chrome --headless",
+    "cy:runFirefoxProd": "$(npm bin)/cypress run --env configFile=production --browser firefox --config video=false",
+    "cy:runFirefoxDev": "$(npm bin)/cypress run --env configFile=development --browser firefox --config video=false"
+  },
+  "author": "Marcio Almeida",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.0.1"
+  },
+  "dependencies": {
+    "papaparse": "^5.3.2"
+  }
+}

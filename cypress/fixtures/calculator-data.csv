@@ -1,0 +1,5 @@
+primaryHeatingSource,naturalGas,electricity,fuel,propane,energyAC,energyHeat,lightEnergy,computerPwr,increaseGreen,coldWater,loadsPerWeek,airDry,percentageAirDry,fridge,furnace,window
+Electricity,258-Thousand Cubic Feet,160-kWh,10-Gallons,5-Gallons,68,80,6,Will Not Do,4,Will Do,7,Will Do,20% of my Laundry,Will Do,Will Do,Will Do
+Electricity,25-Dollars,44-Dollars,95-Dollars,50-Dollars,60,90,10,Will Not Do,5,Will Do,4,Will Do,50% of my Laundry,Will Do,Will Do,Will Do
+Fuel Oil,50-Dollars,120-Dollars,89-Dollars,43-Dollars,50,84,3,Will Not Do,8,Will Not Do,0,Will Do,10% of my Laundry,Will Do,Will Do,Will Not Do
+Natural Gas,180-Dollars,200-Dollars,461-Dollars,70-Dollars,66,77,1,Will Do,2,Will Do,3,Will Do,10% of my Laundry,Will Do,Will Do,Will Do
